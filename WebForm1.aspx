@@ -12,7 +12,7 @@
         <h1>hello Naveen</h1>
 
             <h2>Changes done</h2>
-            <h3>David</h3>
+            <h2>David</h2>
         </div>
     </form>
 </body>
